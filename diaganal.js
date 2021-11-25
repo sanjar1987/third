@@ -11,9 +11,6 @@ for (let i = 1; i < a; i++) {
         else if (i == 1) {
             line += '🟥'
         }
-        // else if (s == a || i == a) {
-        //     line = line + '🟥'
-        // }
         else {
             line = line + '⬜'
         }
@@ -22,7 +19,6 @@ for (let i = 1; i < a; i++) {
     console.log(line);
     line = ''
 }
-
 for (let i = 0; i < a; i++) {
     line += '🟥'
 }

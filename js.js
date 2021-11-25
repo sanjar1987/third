@@ -134,6 +134,3 @@ for (let i = 0; i < custom; i++) {
         javob = + prompt('son kiriting')
     }
 }
-
-
-
